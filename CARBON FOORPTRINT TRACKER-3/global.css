@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-port-lligat-slab: "Port Lligat Slab";
+  --font-montserrat: Montserrat;
+  --font-nunito-sans: "Nunito Sans";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-36xl: 55px;
+  --font-size-14xl: 33px;
+  --font-size-25xl: 44px;
+  --font-size-56xl: 75px;
+  --font-size-26xl: 45px;
+  --font-size-41xl: 60px;
+  --font-size-xs: 12px;
+  --font-size-11xl: 30px;
+  --font-size-3xl: 22px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkolivegreen: #41674b;
+  --color-gray: #3b1f1f;
+  --fonts: #2c3746;
+  --color-lightgreen: #97d788;
+  --color-whitesmoke: #f9f9f9;
+  --color-gainsboro-100: #e4e4e4;
+  --color-silver: #b8b7b7;
+  --color-darkseagreen: #a7cf7f;
+
+  /* Gaps */
+  --gap-3xl: 22px;
+  --gap-9xs: 4px;
+  --gap-7xl: 26px;
+  --gap-smi: 13px;
+  --gap-70xl: 89px;
+
+  /* Paddings */
+  --padding-3xl: 22px;
+  --padding-15xl: 34px;
+  --padding-10xl: 29px;
+  --padding-xl: 20px;
+  --padding-20xl: 39px;
+  --padding-8xs: 5px;
+  --padding-2xl: 21px;
+  --padding-12xs: 1px;
+  --padding-7xl: 26px;
+  --padding-6xs: 7px;
+  --padding-3xs: 10px;
+  --padding-11xs: 2px;
+  --padding-7xs: 6px;
+  --padding-33xl: 52px;
+  --padding-2xs: 11px;
+  --padding-3xs-7: 9.7px;
+  --padding-9xs: 4px;
+  --padding-xs-3: 11.3px;
+  --padding-6xl: 25px;
+  --padding-smi: 13px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-smi: 13px;
+}
